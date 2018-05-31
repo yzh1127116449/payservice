@@ -18,7 +18,7 @@ import java.text.DateFormat;
  */
 public class UtilDate {
 	
-    /** 年月日时分秒(无下划线) yyyyMMddHHmmss */
+    /** 年月日时分秒(无下划线) yyyyMMddHHmmss  */
     public static final String dtLong                  = "yyyyMMddHHmmss";
     
     /** 完整时间 yyyy-MM-dd HH:mm:ss */
